@@ -4,6 +4,7 @@ description = "simple wrapper around sodiumoxide (libsodium) to easily encrypt a
 version = "1.0.0"
 authors = ["Jonas <me@jbrn.eu>"]
 license = "MIT"
+repository = "https://github.com/j-brn/simplecrypt"
 edition = "2018"
 exclude = [
     ".github"
