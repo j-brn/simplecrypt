@@ -5,6 +5,9 @@ version = "0.1.0"
 authors = ["Jonas <me@jbrn.eu>"]
 license = "MIT"
 edition = "2018"
+exclude = [
+    ".github"
+]
 
 [dependencies]
 sodiumoxide = "0.2.5"
