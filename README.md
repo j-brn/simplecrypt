@@ -1,6 +1,6 @@
 # simplecrypt
 
-Just a very basic wrapper around [sodiumoxide](https://github.com/sodiumoxide/sodiumoxide) that supports encrypting and
+Wrapper around [sodiumoxide](https://github.com/sodiumoxide/sodiumoxide) that supports encrypting and
 decrypting arbitrary data with a secret key.
 
 ## Installation
@@ -9,12 +9,12 @@ decrypting arbitrary data with a secret key.
 just add it to the `[dependencies]` section in your `Cargo.toml` file.
 
 ```toml
-simplecrypt = "1.0.1"
+simplecrypt = "1.0"
 ```
 
 ## Docs
 
-You can find the documentation on the [docs.rs page](https://docs.rs/simplecrypt/1.0.1/simplecrypt/).
+You can find the documentation on the [docs.rs page](https://docs.rs/simplecrypt/1.0.2/simplecrypt/).
 
 To build the documentation locally, clone the repository and run 
 
