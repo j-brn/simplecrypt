@@ -11,5 +11,5 @@ exclude = [
 ]
 
 [dependencies]
-sodiumoxide = "0.2.5"
-thiserror = "1.0.16"
+sodiumoxide = "0.2.7"
+thiserror = "1.0"
